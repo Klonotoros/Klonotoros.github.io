@@ -22,7 +22,7 @@ oraz godzine całkowitego wytrzeźwienia.
             self.move = 0 # index of vector described direction of snake move
             self.tmove = [[0,1],[1,0],[0,-1],[-1,0]] # vectors of direacion of snake move
             self.size = 10
-            self.col = False # określa, czy doszło do kolizji`
+            self.col = False # określa, czy doszło do kolizji
             self.food = [rn.randint(1, self.width - 2), rn.randint(1, self.height - 2)]
         def drawBox(self,x, y, color = 'green'):
             c_draw.create_rectangle([x, y, x + self.size, y + self.size], fill=color)

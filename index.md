@@ -18,19 +18,24 @@ oraz godzine całkowitego wytrzeźwienia.
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1self.width = int(width) # area width
+            self.height = int(height) # area height
+            self.msnake = [[self.width / 2, self.height / 2], [self.width / 2 + 1, self.height / 2], [self.width / 2 + 2, self.height / 2]] # snake elements
+            `self.move = 0 # index of vector described direction of snake move
+            self.tmove = [[0,1],[1,0],[0,-1],[-1,0]] # vectors of direacion of snake move
+            self.size = 10
+            self.col = False # określa, czy doszło do kolizji`
+            self.food = [rn.randint(1, self.width - 2), rn.randint(1, self.height - 2)]
+        def drawBox(self,x, y, color = 'green'):
+            c_draw.create_rectangle([x, y, x + self.size, y + self.size], fill=color)
+        def draw(self):
+            c_draw.delete("all")
+            if self.col:
+                c_draw.create_text([self.width / 2 * self.size, self.height / 2 * self.size], text = "Przegrałeś")
+            else:
+                for i in range(self.width):
+                    self.drawBox(i * self.size, 0)
+                    self.drawBox(i * self.size, (self.height - 1) * self.size)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

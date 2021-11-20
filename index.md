@@ -19,6 +19,7 @@ W przyszłości aplikacja ma bardzo duże pole manewru.
  - Inteligentny system monitorowania spożycia - użytkownik w trakcie spożycia na bieżąco będzie mógł wprowadzać do systemu spożyty alkohol a ten wyświetli aktualny stan trzeźwości
 oraz godzine całkowitego wytrzeźwienia.
  - System planowania (Użytkownik będzie mógł z wyprzedzeniem dodać orientacyjny plan spożycia który pozwoli mu zorientować się ile alkoholu może spożyć aby następnego dnia być dyspozycyjnym.
+
 ### Fragment kodu naszego projektu:
 ```markdown
 `1self.width = int(width) # area width

@@ -4,7 +4,7 @@
 
 ## Projekt na ćwiczenia z narzędzi informatycznych - wirtualny alkomat.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Wirtualny alkomat to projekt, który tworzę wraz ze swoimi znajomymi z uczelni w ramach ćwiczeń z przedmiotu: **narzędzia informatyczne**
 
 ```markdown
 Syntax highlighted code block

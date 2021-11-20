@@ -4,7 +4,8 @@
 
 ## Projekt na ćwiczenia z narzędzi informatycznych - wirtualny alkomat.
 
-Wirtualny alkomat to projekt, który tworzę wraz ze swoimi znajomymi z uczelni w ramach ćwiczeń z przedmiotu: **narzędzia informatyczne**
+Wirtualny alkomat to projekt, który tworzę wraz ze swoimi znajomymi z uczelni w ramach ćwiczeń z przedmiotu: **narzędzia informatyczne**.
+Wirtualny alkomat to aplikacja dająca możliwość sprawdzenia swojego aktualnego stanu trzeźwości.
 
 ```markdown
 Syntax highlighted code block

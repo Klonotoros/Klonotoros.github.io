@@ -16,8 +16,6 @@ W przyszłości aplikacja ma bardzo duże pole manewru.
 oraz godzine całkowitego wytrzeźwienia.
  - System planowania (Użytkownik będzie mógł z wyprzedzeniem dodać orientacyjny plan spożycia który pozwoli mu zorientować się ile alkoholu może spożyć aby następnego dnia być dyspozycyjnym.
 ```markdown
-Syntax highlighted code block
-
 `1self.width = int(width) # area width
             self.height = int(height) # area height
             self.msnake = [[self.width / 2, self.height / 2], [self.width / 2 + 1, self.height / 2], [self.width / 2 + 2, self.height / 2]] # snake elements

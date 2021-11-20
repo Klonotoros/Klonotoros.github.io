@@ -1,4 +1,4 @@
-# Spis projektów na rok 2021/2022
+# Spis projektów na rok 2021/2022:
 
 
 

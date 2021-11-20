@@ -1,4 +1,4 @@
-# Jakub Malec śmierdzi potem:
+# 
 
 
 

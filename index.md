@@ -6,7 +6,15 @@
 
 Wirtualny alkomat to projekt, który tworzę wraz ze swoimi znajomymi z uczelni w ramach ćwiczeń z przedmiotu: **narzędzia informatyczne**.
 Wirtualny alkomat to aplikacja dająca możliwość sprawdzenia swojego aktualnego stanu trzeźwości.
-
+J
+### Opis programu:
+Użytkownik chcący sprawdzić stan swojej trzeźwości będą mogli wejść na naszą stronę i podając informacje takie jak: -waga, wiek, ilość spożytego alkohou, moc alkoholu spożytego, czas spożytego alkoholu, godzina rozpoczęcia spożycia alkoholu i godzina zakończenia, godzina altualna będzie mógł natychmiastowo sprawdzić aktualną zawartość alkoholu we krwii. Im wprowadzone dane będą dokładniejsze tym dokładniejszy będzie wynik testu.
+### Przyszłość:
+W przyszłości aplikacja ma bardzo duże pole manewru.
+ - Dodanie puli alkoholi. (Użytkownik będzie miał możliwość wyboru alkoholu który spożył poprsez wejście w baze i dodanie wybranego.)
+ - Inteligentny system monitorowania spożycia - użytkownik w trakcie spożycia na bieżąco będzie mógł wprowadzać do systemu spożyty alkohol a ten wyświetli aktualny stan trzeźwości
+oraz godzine całkowitego wytrzeźwienia.
+ - System planowania (Użytkownik będzie mógł z wyprzedzeniem dodać orientacyjny plan spożycia który pozwoli mu zorientować się ile alkoholu może spożyć aby następnego dnia być dyspozycyjnym.
 ```markdown
 Syntax highlighted code block
 

@@ -18,7 +18,7 @@ oraz godzine całkowitego wytrzeźwienia.
 ```markdown
 Syntax highlighted code block
 
-1self.width = int(width) # area width
+`1self.width = int(width) # area width
             self.height = int(height) # area height
             self.msnake = [[self.width / 2, self.height / 2], [self.width / 2 + 1, self.height / 2], [self.width / 2 + 2, self.height / 2]] # snake elements
             `self.move = 0 # index of vector described direction of snake move
@@ -35,7 +35,7 @@ Syntax highlighted code block
             else:
                 for i in range(self.width):
                     self.drawBox(i * self.size, 0)
-                    self.drawBox(i * self.size, (self.height - 1) * self.size)
+                    self.drawBox(i * self.size, (self.height - 1) * self.size)`
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

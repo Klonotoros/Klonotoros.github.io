@@ -52,3 +52,8 @@ oraz godzine całkowitego wytrzeźwienia.
 Istnieje wiele serwisów strumieniowych oferujących słuchanie różnych piosenek, niestety w większości są płatne.
 Dlaczego więc nie stworzyć własnego strumieniowego serwisu który umożliwi mi pobierać dodawać dowolnych piosenek z serwisu youtube i słuchać ich bez dostępu do internetu w dowolnym miejscu na ziemi?
 
+### Zasada działania programu:
+Program jest bezpośrednio podłączony pod platformę Youtube, daje możliwość dodania dowolnego filmu (wymaga dostępu do internetu) następnie tworzymy playlisty w których znajdują się dodane filmy. 
+
+Po dodaniu filmów do playlist mamy możliwość odsłuchiwania ich przy wygaszonym wyświetlaczu (w tle) i bez dostępu do internetu.
+

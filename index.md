@@ -48,3 +48,7 @@ oraz godzine całkowitego wytrzeźwienia.
 ## Projekt własny - serwis strumieniowy.
 
 ### Opis programu: 
+
+Istnieje wiele serwisów strumieniowych oferujących słuchanie różnych piosenek, niestety w większości są płatne.
+Dlaczego więc nie stworzyć własnego strumieniowego serwisu który umożliwi mi pobierać dodawać dowolnych piosenek z serwisu youtube i słuchać ich bez dostępu do internetu w dowolnym miejscu na ziemi?
+
